@@ -18,9 +18,9 @@
 
 -------------
 
-- 1. IEEE - Computer Society of the Institute for Electrical and Electronic Engineers, IEEE Computer Society – IEEE-CS (Компьютерное Общество) или просто IEEE. http://www.ieee.org 
-- 2. ISO – International Organization for Standardization. http://www.iso.ch ; IEC – International Electrotechnical Commission; JTC 1 – Joint Technical Committee 1, Information technology
-- 3. ACM – Association of Computer Machinery
+- 1 IEEE - Computer Society of the Institute for Electrical and Electronic Engineers, IEEE Computer Society – IEEE-CS (Компьютерное Общество) или просто IEEE. http://www.ieee.org 
+- 2 ISO – International Organization for Standardization. http://www.iso.ch ; IEC – International Electrotechnical Commission; JTC 1 – Joint Technical Committee 1, Information technology
+- 3 ACM – Association of Computer Machinery
 
 Оба стандарта стали результатом консенсуса ведущих представителей индустрии и признанных авторитетов в области программной инженерии - по аналогии с тем, как был создан PMI PMBOK. Так мы пришли к сегодняшнему состоянию Software Engineering как дисциплины.
 
