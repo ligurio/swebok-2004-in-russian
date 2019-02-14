@@ -66,29 +66,18 @@ SWEBOK описывает 10 областей знаний:
 
 Для каждой области знаний SWEBOK описывает ключевые акронимы, представляет область в виде “подобластей” (subareas) или как их часто называют в самом SWEBOK – “секций” и дает декомпозицию каждой секции в форме списка тем (topics) с их описанием.
 
-https://web.archive.org/web/20140707200351im_/http://swebok.sorlik.ru/images/swe_1-5_en.jpg
+![Рисунок 1-а. Первые пять областей знаний SWEBOK на английском языке](images/swe_1-5_en.jpg)
 
-Рисунок 1-а. Первые пять областей знаний SWEBOK на английском языке
+![Рисунок 1-б. Первые пять областей знаний SWEBOK на русском языке](images/swe_1-5_ru.jpg)
 
-https://web.archive.org/web/20140707200351im_/http://swebok.sorlik.ru/images/swe_1-5_ru.jpg
+![Рисунок 2-а. Вторые пять областей знаний SWEBOK на английском языке](images/swe_6-10_en.jpg)
 
-Рисунок 1-б. Первые пять областей знаний SWEBOK на русском языке
+![Рисунок 2-б. Вторые пять областей знаний SWEBOK на русском языке](images/swe_6-10_ru.jpg)
 
-https://web.archive.org/web/20140707200351im_/http://swebok.sorlik.ru/images/swe_6-10_en.jpg
+![Рисунок 3-а. Области знаний связанных дисциплин на английском языке](images/swe_other-ka_en.jpg)
 
-Рисунок 2-а. Вторые пять областей знаний SWEBOK на английском языке
+![Рисунок 3-б. Области знаний связанных дисциплин  на русском языке](images/swe_other-ka_ru.jpg)
 
-https://web.archive.org/web/20140707200351im_/http://swebok.sorlik.ru/images/swe_6-10_ru.jpg
-
-Рисунок 2-б. Вторые пять областей знаний SWEBOK на русском языке
-
-https://web.archive.org/web/20140707200351im_/http://swebok.sorlik.ru/images/swe_other-ka_en.jpg
-
-Рисунок 3-а. Области знаний связанных дисциплин на английском языке
-
-https://web.archive.org/web/20140707200351im_/http://swebok.sorlik.ru/images/swe_other-ka_ru.jpg
-
-Рисунок 3-б. Области знаний связанных дисциплин  на русском языке
 
 ## Перевод SWEBOK на русский язык
 
