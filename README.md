@@ -1,3 +1,5 @@
+## Основы Программной Инженерии (по SWEBOK)
+
 ![The Terrace](images/Terrace.jpg)
 
 "Основы программной инженерии" разработаны на базе IEEE Guide to SWEBOK® 2004 в соответствии с IEEE SWEBOK 2004 Сopyright and Reprint
