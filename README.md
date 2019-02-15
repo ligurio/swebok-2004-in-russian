@@ -1,3 +1,5 @@
+![The Terrace](images/Terrace.jpg)
+
 "Основы программной инженерии" разработаны на базе IEEE Guide to SWEBOK® 2004 в соответствии с IEEE SWEBOK 2004 Сopyright and Reprint
 Permissions: "This document may be copied, in whole or in part, in any form or by any means, as is, or with alterations provided that 
 (1) alterations are clearly marked as alterations and (2) this copyright notice is included unmodified in any copy."
