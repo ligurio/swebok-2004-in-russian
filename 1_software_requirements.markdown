@@ -1,5 +1,3 @@
-# https://web.archive.org/web/20140430161158/http://swebok.sorlik.ru/1_software_requirements.html
-
 ## 1. Программные требования (Software Requirements по SWEBOK)
 
 Глава базируется на IEEE Guide to the Software Engineering Body of Knowledge - SWEBOK.
