@@ -1,4 +1,3 @@
-MAKRDOWN_FILES  = title.txt
 MAKRDOWN_FILES += 0_introduction.markdown
 MAKRDOWN_FILES += 1_software_requirements.markdown
 MAKRDOWN_FILES += 2_software_design.markdown
@@ -15,8 +14,11 @@ MAKRDOWN_FILES += bibliography.markdown
 PANDOC = pandoc
 NAME = swebook-ru
 
-epub: $(MAKRDOWN_FILES)
-	$(PANDOC) -s --toc -c epub.css $(MAKRDOWN_FILES) -o $(NAME).epub
+epub: $(MAKRDOWN_FILES) epub.css title.txt
+	$(PANDOC) -s --toc -c epub.css title.txt $(MAKRDOWN_FILES) -o $(NAME).epub
 
-html: $(MAKRDOWN_FILES)
-	$(PANDOC)  -s --toc -c epub.css $(MAKRDOWN_FILES) -o $(NAME).html
+html: $(MAKRDOWN_FILES) epub.css
+	$(PANDOC) -s --toc -c epub.css title.txt $(MAKRDOWN_FILES) -o $(NAME).html
+
+clean:
+	rm -f $(NAME).html $(NAME).epub

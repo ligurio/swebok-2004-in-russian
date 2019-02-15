@@ -1,5 +1,6 @@
 ---
 title: Основы Программной Инженерии (по SWEBOK)
 author: Сергей Орлик
-rights:  Creative Commons Non-Commercial Share Alike 3.0
+rights: SWEBOK Сopyright © 2004 by The Institute of Electrical and Electronics Engineers, Inc. All rights reserved.
 language: ru-RU
+...
