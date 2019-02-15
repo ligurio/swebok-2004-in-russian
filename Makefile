@@ -13,7 +13,10 @@ MAKRDOWN_FILES += 10_software_quality.markdown
 MAKRDOWN_FILES += software_lifecycle_models.markdown
 MAKRDOWN_FILES += bibliography.markdown
 PANDOC = pandoc
-EPUB = swebook.epub
+NAME = swebook-ru
 
 epub: $(MAKRDOWN_FILES)
-	$(PANDOC) $(MAKRDOWN_FILES) -o $(EPUB)
+	$(PANDOC) -s --toc -c epub.css $(MAKRDOWN_FILES) -o $(NAME).epub
+
+html: $(MAKRDOWN_FILES)
+	$(PANDOC)  -s --toc -c epub.css $(MAKRDOWN_FILES) -o $(NAME).html
