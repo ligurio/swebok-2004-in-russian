@@ -1,5 +1,3 @@
-# https://web.archive.org/web/20140217034144/http://swebok.sorlik.ru/10_software_quality.html
-
 ## 10. Качество программного обеспечения (Software Quality по SWEBOK)
 
 Глава базируется на IEEE Guide to the Software Engineering Body of Knowledge - SWEBOK.
