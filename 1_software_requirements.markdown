@@ -1,4 +1,4 @@
-## 1. программные требования (software requirements по swebok)
+## 1. Программные требования (software requirements по swebok)
 
 глава базируется на ieee guide to the software engineering body of knowledge -
 swebok.
