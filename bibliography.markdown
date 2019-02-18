@@ -30,12 +30,10 @@ http://www.feapmo.gov/resources/E-Gov_Guidance_Final_Draft_v2.0.pdf
 - [Fred Brooks, 1987] – Классическая статья Фреда Брукса (Frederick P. Brooks,
 Jr.), заставившая по-новому взглянуть индустрию программного обеспечения на
 самою себя. - No Silver Bullet: Essence and Accidents of Software Engineering.
-IEEE Computer, April, 1987.
-http://www.computer.org/computer/homepage/misc/Brooks/
--[PMBOK US DoD Ext, 2003] - U.S. Department of Defense (DoD) Extension to: A
+IEEE Computer, April, 1987. http://www.computer.org/computer/homepage/misc/Brooks/
+- [PMBOK US DoD Ext, 2003] - U.S. Department of Defense (DoD) Extension to: A
 Guide to the Project Management Body of Knowledge (PMBOK Guide). First Edition,
-Version 1.0. PMI Standard. The Defense Acquisition University (DAU), June,
-2003. http://www.dau.mil/pubs/gdbkspmbok.asp
+Version 1.0. PMI Standard. The Defense Acquisition University (DAU), June, 2003. http://www.dau.mil/pubs/gdbkspmbok.asp
 - [PMI PMBOK, 2000] – A Guide to the Project Management Body of Knowledge.
 (PMBOK® Guide). Second Edition. Project Management Institute, Inc., 2000.
 http://www.pmi.org/
@@ -74,8 +72,7 @@ Wiley & Sons, Inc. (ISBN 0-471-26557-8) 1976 – Russel D. Archibald, 2003;
 проектами”, N1 (1), март 2005, стр. 14-23. http://www.pmmagazine.ru
 - [Брукс, 1995] – Фредерик Брукс. Мифический человеко-месяц или как создаются
 программные системы. 2-е издание, юбилейное. Addison-Wesley Longman, Inc. (ISBN
-0-201-83595-9), 1995. Издательство Символ-Плюс (ISBN 5-93286-005-7), 2000,
-2005.
+0-201-83595-9), 1995. Издательство Символ-Плюс (ISBN 5-93286-005-7), 2000, 2005.
 - [Вигерс, 2003] – Карл И. Вигерс. Разработка требований к программному
 обеспечению.  Издательско-торговый дом “Русская редакция”, перевод на русский
 язык второй редакции книги – Microsoft Corporation (ISBN 5-7502-0240-2), 2004.
@@ -83,8 +80,7 @@ Wiley & Sons, Inc. (ISBN 0-471-26557-8) 1976 – Russel D. Archibald, 2003;
 Edition. Karl E. Wiegers, Microsoft Press (ISBN 0-7356-1879-8), 2003.
 - [Грей и Ларсон, 2003] – Клиффорд Ф. Грей, Эрик У. Ларсон. Управление
 проектами: Практическое русководство.  Издательство “Дело и Сервис” (ISBN
-5-8018-0152-9), 2003. The McGraw-Hill Companies, Inc. (ISBN 0-07-365812-X),
-2000.
+5-8018-0152-9), 2003. The McGraw-Hill Companies, Inc. (ISBN 0-07-365812-X), 2000.
 - [ГОСТ 12207, 1999] – Информационная технология. Процессы Жизненного Цикла
 Программных Средств. ГОСТ Р ИСО/МЭК 12207-99, Государственный Стандарт
 Российской Федерации, 1999. Госстандарт России, Москва, 2000.
