@@ -20,5 +20,10 @@ epub: $(MAKRDOWN_FILES) epub.css title.txt
 html: $(MAKRDOWN_FILES) epub.css
 	$(PANDOC) -s --toc -c epub.css title.txt $(MAKRDOWN_FILES) -o $(NAME).html
 
+release: $(NAME).epub $(NAME).html
+	zip swebook.zip swebook-ru.epub swebook-ru.html
+
 clean:
-	rm -f $(NAME).html $(NAME).epub
+	rm -f $(NAME).html $(NAME).epub $(NAME).zip
+
+.PHONY: clean
