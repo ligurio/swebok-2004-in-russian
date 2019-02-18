@@ -1,0 +1,12 @@
+sudo: required
+language: c
+
+os:
+  - linux
+
+install:
+  - sudo apt-get install -y pandoc
+
+script:
+  - make epub
+  - make html
