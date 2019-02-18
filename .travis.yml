@@ -10,3 +10,14 @@ install:
 script:
   - make epub
   - make html
+  - make release
+
+deploy:
+  provider: releases
+  api_key: $GH_OATH_TOKEN
+  file:
+    - "swebok-ru.epub"
+    - "swebok-ru.zip"
+  branches:
+    only:
+      - master
