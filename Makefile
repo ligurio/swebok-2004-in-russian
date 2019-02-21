@@ -15,7 +15,7 @@ PANDOC = pandoc
 NAME = swebook-ru
 
 epub: $(MAKRDOWN_FILES) epub.css title.txt
-	$(PANDOC) -s --toc -c epub.css title.txt $(MAKRDOWN_FILES) -o $(NAME).epub
+	$(PANDOC) -s --number-sections --toc -c epub.css title.txt $(MAKRDOWN_FILES) -o $(NAME).epub
 
 html: $(MAKRDOWN_FILES) epub.css
 	$(PANDOC) -s --number-sections --toc -c epub.css title.txt $(MAKRDOWN_FILES) -o $(NAME).html
