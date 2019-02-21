@@ -15,7 +15,7 @@ script:
   - make epub
   - make html
   - make release
-  - awesome_bot README.md *.markdown --allow-redirect --allow-ssl --allow-dupe --white-list https://ru.linkedin.com/in/yurybuluy,https://www.linkedin.com/in/sorlik
+  - awesome_bot README.md *.markdown --allow-redirect --allow-ssl --allow-dupe --white-list https://ru.linkedin.com/in/yurybuluy,https://www.linkedin.com/in/sorlik,http://www.computer.org/tab/swecc,http://www.quality.nist.gov,http://sel.gsfc.nasa.gov/website/documents/online-doc/95-102.pdf,http://www.feapmo.gov/resources/E-Gov_Guidance_Final_Draft_v2.0.pdf,http://www.dau.mil/pubs/gdbkspmbok.asp,http://www.sovnet.ru/ntk2000/index.php 
 
 deploy:
   provider: releases
