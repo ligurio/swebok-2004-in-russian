@@ -12,13 +12,14 @@ MAKRDOWN_FILES += 10_software_quality.markdown
 MAKRDOWN_FILES += software_lifecycle_models.markdown
 MAKRDOWN_FILES += bibliography.markdown
 PANDOC = pandoc
+PANDOC_OPT = -s --toc-depth=2 --number-sections --toc -c epub.css title.txt $(MAKRDOWN_FILES)
 NAME = swebook-ru
 
 epub: $(MAKRDOWN_FILES) epub.css title.txt
-	$(PANDOC) -s --toc-depth=2 --number-sections --toc -c epub.css title.txt $(MAKRDOWN_FILES) -o $(NAME).epub
+	$(PANDOC) $(PANDOC_OPT) --epub-cover-image=images/Terrace.jpg -o $(NAME).epub
 
 html: $(MAKRDOWN_FILES) epub.css
-	$(PANDOC) -s --toc-depth=2 --number-sections --toc -c epub.css title.txt $(MAKRDOWN_FILES) -o $(NAME).html
+	$(PANDOC) $(PANDOC_OPT) -o $(NAME).html
 
 release: $(NAME).epub $(NAME).html
 	zip swebook.zip swebook-ru.epub swebook-ru.html
