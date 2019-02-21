@@ -1,4 +1,4 @@
-## Дополнительная библиография
+# Дополнительная библиография
 
 - [Ambler, 2004] - Scott W. Ambler. One Piece at a Time. Software Development
 Magazine, December 2004. http://www.sdmagazine.com/
