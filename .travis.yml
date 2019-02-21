@@ -15,7 +15,7 @@ script:
   - make epub
   - make html
   - make release
-  - awesome_bot README.md --allow-redirect --allow-ssl --allow-dupe
+  - awesome_bot README.md --allow-redirect --allow-ssl --allow-dupe --white-list https://ru.linkedin.com/in/yurybuluy,https://www.linkedin.com/in/sorlik
 
 deploy:
   provider: releases
