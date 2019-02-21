@@ -22,7 +22,7 @@ html: $(MAKRDOWN_FILES) epub.css
 	$(PANDOC) $(PANDOC_OPT) -o $(NAME).html
 
 release: $(NAME).epub $(NAME).html
-	zip swebook.zip swebook-ru.epub swebook-ru.html
+	zip $(NAME).zip $(NAME).epub $(NAME).html
 
 clean:
 	rm -f $(NAME).html $(NAME).epub $(NAME).zip
