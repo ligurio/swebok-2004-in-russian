@@ -15,10 +15,10 @@ PANDOC = pandoc
 NAME = swebook-ru
 
 epub: $(MAKRDOWN_FILES) epub.css title.txt
-	$(PANDOC) -s --number-sections --toc -c epub.css title.txt $(MAKRDOWN_FILES) -o $(NAME).epub
+	$(PANDOC) -s --toc-depth=2 --number-sections --toc -c epub.css title.txt $(MAKRDOWN_FILES) -o $(NAME).epub
 
 html: $(MAKRDOWN_FILES) epub.css
-	$(PANDOC) -s --number-sections --toc -c epub.css title.txt $(MAKRDOWN_FILES) -o $(NAME).html
+	$(PANDOC) -s --toc-depth=2 --number-sections --toc -c epub.css title.txt $(MAKRDOWN_FILES) -o $(NAME).html
 
 release: $(NAME).epub $(NAME).html
 	zip swebook.zip swebook-ru.epub swebook-ru.html
