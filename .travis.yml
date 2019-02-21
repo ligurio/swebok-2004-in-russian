@@ -1,16 +1,21 @@
 sudo: required
-language: c
+language: ruby
+
+rvm:
+  - 2.2
 
 os:
   - linux
 
-install:
+before_script:
+  - gem install awesome_bot
   - sudo apt-get install -y pandoc
 
 script:
   - make epub
   - make html
   - make release
+  - awesome_bot README.md --allow-redirect --allow-ssl --allow-dupe
 
 deploy:
   provider: releases
@@ -20,3 +25,10 @@ deploy:
     - "swebok-ru.zip"
   on:
     branch: master
+
+notifications:
+  email:
+    recipients:
+      - estetus+travis-ci@gmail.com
+    on_success: change
+    on_failure: always
