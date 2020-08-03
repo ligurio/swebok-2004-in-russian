@@ -11,8 +11,11 @@ MAKRDOWN_FILES += 9_software_engineering_tools_and_methods.markdown
 MAKRDOWN_FILES += 10_software_quality.markdown
 MAKRDOWN_FILES += software_lifecycle_models.markdown
 MAKRDOWN_FILES += bibliography.markdown
+
 PANDOC = pandoc
-PANDOC_OPT = -s --toc-depth=2 --toc -c epub.css title.txt $(MAKRDOWN_FILES)
+PANDOC_OPT += -s --toc-depth=2 --toc --self-contained
+PANDOC_OPT += -c epub.css title.txt $(MAKRDOWN_FILES)
+
 NAME = swebok_2004_ru
 
 all: $(NAME).html $(NAME).epub
