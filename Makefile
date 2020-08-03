@@ -14,16 +14,16 @@ MAKRDOWN_FILES += bibliography.markdown
 
 PANDOC = pandoc
 PANDOC_OPT += -s --toc-depth=2 --toc --self-contained
-PANDOC_OPT += -c epub.css title.txt $(MAKRDOWN_FILES)
+PANDOC_OPT += -c style.css title.txt $(MAKRDOWN_FILES)
 
 NAME = swebok_2004_ru
 
 all: $(NAME).html $(NAME).epub
 
-$(NAME).epub: $(MAKRDOWN_FILES) epub.css title.txt
+$(NAME).epub: $(MAKRDOWN_FILES) style.css title.txt
 	$(PANDOC) $(PANDOC_OPT) --epub-cover-image=images/Terrace.jpg -o $(NAME).epub
 
-$(NAME).html: $(MAKRDOWN_FILES) epub.css
+$(NAME).html: $(MAKRDOWN_FILES) style.css
 	$(PANDOC) $(PANDOC_OPT) -o $(NAME).html
 
 $(NAME).zip: $(NAME).html images
