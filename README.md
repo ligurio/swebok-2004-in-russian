@@ -14,7 +14,7 @@ Permissions: "This document may be copied, in whole or in part, in any form or b
 
 SWEBOK Сopyright © 2004 by The Institute of Electrical and Electronics Engineers, Inc. All rights reserved.
 
-["The Terrace" illusion Copyright](http://www.cambiguities.com/Illusion_Site/Cambiguities_David_Macdonald_Illusions___Image___Terrace_Illusion.html) © [David Macdonald](http://users.skynet.be/fa414202/Cambiguities/Illusion_Site/Cambiguities_David_Macdonald_Illusions___Image___Terrace_Illusion.html). All rights reserved. (используется сразрешения автора)
+["The Terrace" illusion Copyright](http://www.cambiguities.com/Illusion_Site/Cambiguities_David_Macdonald_Illusions___Image___Terrace_Illusion.html) © [David Macdonald](http://users.skynet.be/fa414202/Cambiguities/Illusion_Site/Cambiguities_David_Macdonald_Illusions___Image___Terrace_Illusion.html). All rights reserved. (используется с разрешения автора)
 
-- [Рекомендации по преподаванию программной инженерии и информатики в университетах](http://se.math.spbu.ru/SE/se2004r.pdf)
+- [Рекомендации по преподаванию программной инженерии и информатики в университетах](https://oops.math.spbu.ru/SE/se2004r.pdf)
 - [Guide to the Software Engineering Body of Knowledge Version 3 (SWEBOK)](https://github.com/ligurio/swebook-v3/)
