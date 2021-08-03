@@ -1,5 +1,7 @@
 ## Основы Программной Инженерии (по SWEBOK)
 
+Форматы: [EPUB](https://bronevichok.ru/static/swebok_2004_ru.epub) и [HTML](https://bronevichok.ru/static/swebok_2004_ru.html)
+
 ![The Terrace](images/Terrace.jpg)
 
 "Основы программной инженерии" разработаны на базе IEEE Guide to SWEBOK® 2004 в соответствии с IEEE SWEBOK 2004 Сopyright and Reprint
