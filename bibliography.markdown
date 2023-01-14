@@ -13,7 +13,7 @@ Enhancement, Computer, May 1988, pp. 61-72.
 http://www.computer.org/computer/homepage/misc/Boehm/index.htm
 - [Boehm, 2000] – Barry W. Boehm. Spiral Development: Experience, Principles,
 and Refinements. Spiral Experience Workshop, February 9, 2000 / Special Report
-CMU/SEI-2000-SR-008, July, 2000. http://www.sei.cmu.edu/cbs/spiral2000/Boehm  
+CMU/SEI-2000-SR-008, July, 2000. http://www.sei.cmu.edu/cbs/spiral2000/Boehm
 - [Chaos, 2004] – CHAOS Research Results. 2004 Third Quarter Research Report.
 The Standish Group International, Inc., 2004.
 - [CMMI 1.1, 2002] - Capability Maturity Model Integration, Version 1.1. [CMMI
@@ -53,7 +53,7 @@ http://sites.computer.org/ccse/
 - [SWEBOK, 2004] - Guide to Software Engineering Base of Knowledge (SWEBOK).
 IEEE Computer Society, 2004. http://www.swebok.org/
 - [TOGAF, 2003] – The Open Group Architecture Framework (TOGAF). Version 8.1
-The Open Group, 2003. http://www.opengroup.org/architecture/togaf8/index8.htm 
+The Open Group, 2003. http://www.opengroup.org/architecture/togaf8/index8.htm
 - [Zachman] – The Zachman Framework for Enterprise Architecture, John A.
 Zachman, ZIFA - Zachman Institute for Framework Advancement. http://www.zifa.com
 - [Амблер, 2002] – Скотт Амблер. Гибкие технологии: экстремальное
