@@ -39,7 +39,7 @@ of Ethics and Professional Practice), к 2004 году сформулирова�
 Software Engineering:
 - *Guide to the Software Engineering Body of Knowledge (SWEBOK), IEEE 2004
 Version* - Руководство к Своду Знаний по Программной Инженерии, в дальнейшем
-просто “SWEBOK” [SWEBOK, 2004]; 
+просто “SWEBOK” [SWEBOK, 2004];
 - *Software Engineering 2004. Curriculum Guidelines for Undergraduate Degree
 Programs in Software Engineering*  – Учебный План для Преподавания Программной
 Инженерии в ВУЗах<sup>1</sup> (данное название на русском языке представлено в
