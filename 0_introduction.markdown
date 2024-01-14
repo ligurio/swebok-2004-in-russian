@@ -15,7 +15,7 @@
 ## Программная инженерия как дисциплина
 
 В 1958 всемирно известный статистик Джон Тьюкей (John Tukey) впервые ввел
-термин *software* – программное обеспечение. В 1972 году IEEE* выпустил первый
+термин *software* – программное обеспечение. В 1972 году IEEE[^1] выпустил первый
 номер *Transactions on Software Engineering* – Труды по Программной Инженерии.
 Первый целостный взгляд на эту область профессиональной деятельности появился
 1979 году, когда Компьютерное Общество IEEE подготовило стандарт IEEE Std 730
@@ -24,15 +24,15 @@
 
 Наконец, в 1990 году началось планирование всеобъемлющих *международных*
 стандартов, в основу которых легли концепции и взгляды стандарта IEEE Std 1074
-и результатов работы образованной в 1987 году совместной комиссии ISO/IEC JTC
-1<sup>2</sup>. В 1995 году группа этой комиссии SC7 “Software Engineering”
+и результатов работы образованной в 1987 году совместной комиссии ISO/IEC JTC 1[^2].
+В 1995 году группа этой комиссии SC7 “Software Engineering”
 выпустила первую версию международного стандарта ISO/IEC 12207 “Software
 Lifecycle Processes”. Этот стандарт стал первым опытом создания единого общего
 взгляда на программную инженерию. Соответствующий национальный стандарт России
 – ГОСТ Р ИСО/МЭК 12207-99 [ГОСТ 12207, 1999] содержит полный аутентичный
 перевод текста международного стандарта ISO/IEC 12207-95 (1995 года).
 
-В свою очередь, IEEE и ACM<sup>3</sup>, начав совместные работы еще в 1993 году
+В свою очередь, IEEE и ACM[^3], начав совместные работы еще в 1993 году
 с кодекса этики и профессиональной практики в данной области (ACM/IEEE-CS Code
 of Ethics and Professional Practice), к 2004 году сформулировали два ключевых
 описания того, что сегодня мы и называем основами программной инженерии –
@@ -42,18 +42,18 @@ Version* - Руководство к Своду Знаний по Програм
 просто “SWEBOK” [SWEBOK, 2004];
 - *Software Engineering 2004. Curriculum Guidelines for Undergraduate Degree
 Programs in Software Engineering*  – Учебный План для Преподавания Программной
-Инженерии в ВУЗах<sup>1</sup> (данное название на русском языке представлено в
+Инженерии в ВУЗах (данное название на русском языке представлено в
 вольном смысловом переводе) [SE, 2004].
 
--------------
-
-- 1 IEEE - Computer Society of the Institute for Electrical and Electronic
+[^1]: IEEE - Computer Society of the Institute for Electrical and Electronic
 Engineers, IEEE Computer Society – IEEE-CS (Компьютерное Общество) или просто
-IEEE. https://www.ieee.org 
-- 2 ISO – International Organization for Standardization. https://www.iso.ch ;
+IEEE. https://www.ieee.org
+
+[^2]: ISO – International Organization for Standardization. https://www.iso.ch ;
 IEC – International Electrotechnical Commission; JTC 1 – Joint Technical
 Committee 1, Information technology
-- 3 ACM – Association of Computer Machinery
+
+[^3]: ACM – Association of Computer Machinery
 
 Оба стандарта стали результатом консенсуса ведущих представителей индустрии и
 признанных авторитетов в области программной инженерии - по аналогии с тем, как
@@ -81,9 +81,11 @@ C 1993 года IEEE и ACM координируют свои работы в р
 SWEBOK включал “лишь” 10 *областей знаний* (*knowledge areas*, KA). При этом,
 что справедливо и для PMBOK, добавление новых областей знаний в SWEBOK
 достаточно прозрачно. Все, что для этого необходимо, зрелость (или, по крайней
-мере, явный и быстрый процесс достижения зрелости) и общепринятость
+мере, явный и быстрый процесс достижения зрелости) и общепринятость[^4]
 соответствующей области знаний, если это не приведет к серьезному усложнению
-SWEBOK. (Концепция “общепринятости” - generally accepted – определена в IEEE
+SWEBOK.
+
+[^4]: Концепция “общепринятости” - generally accepted – определена в IEEE
 Std 1490-1998, Adoption of PMI Standard — A Guide to the Project Management
 Body of Knowledge
 
