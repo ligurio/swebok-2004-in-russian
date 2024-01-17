@@ -20,11 +20,11 @@ NAME = swebok_2004_ru
 
 all: $(NAME).html $(NAME).epub
 
-$(NAME).epub: $(MAKRDOWN_FILES) style.css title.txt
-	$(PANDOC) $(PANDOC_OPT) -c style.css --epub-cover-image=images/Terrace.jpg -o $(NAME).epub
+$(NAME).epub: $(MAKRDOWN_FILES) title.txt
+	$(PANDOC) $(PANDOC_OPT) -o $(NAME).epub
 
 $(NAME).html: $(MAKRDOWN_FILES)
-	$(PANDOC) $(PANDOC_OPT) -o $(NAME).html
+	$(PANDOC) $(PANDOC_OPT) --embed-resources --standalone -o $(NAME).html
 
 $(NAME).zip: $(NAME).html images
 	zip -r $(NAME).zip $< images
