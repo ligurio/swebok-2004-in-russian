@@ -41,7 +41,7 @@ Software Engineering:
 Version* - Руководство к Своду Знаний по Программной Инженерии, в дальнейшем
 просто “SWEBOK” [SWEBOK, 2004];
 - *Software Engineering 2004. Curriculum Guidelines for Undergraduate Degree
-Programs in Software Engineering*  – Учебный План для Преподавания Программной
+Programs in Software Engineering* – Учебный План для Преподавания Программной
 Инженерии в ВУЗах (данное название на русском языке представлено в
 вольном смысловом переводе) [SE, 2004].
 
@@ -187,7 +187,7 @@ SWEBOK – “секций” и дает декомпозицию каждой 
 
 ![Рисунок 3-а. Области знаний связанных дисциплин на английском языке](images/swe_other-ka_en.jpg)
 
-![Рисунок 3-б. Области знаний связанных дисциплин  на русском языке](images/swe_other-ka_ru.jpg)
+![Рисунок 3-б. Области знаний связанных дисциплин на русском языке](images/swe_other-ka_ru.jpg)
 
 
 ## Перевод SWEBOK на русский язык
